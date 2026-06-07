@@ -135,20 +135,21 @@ Random State:
 random_state = 2
 
 
-📂 Project Structure
+## 📁 Project Structure
+
+```text
 Titanic_Survival_Prediction/
 │
 ├── Project1_Titanic_Survival_Prediction.ipynb
 ├── Titanic-Dataset.csv
 ├── README.md
-│
 └── outputs/
     ├── survival_plot.png
     ├── gender_plot.png
     └── pclass_plot.png
-
+```
     
-📊 Key Insights
+## 📊 Key Insights
 
 ✔ Female passengers had significantly higher survival rates.
 
@@ -160,7 +161,7 @@ Titanic_Survival_Prediction/
 
 ✔ Logistic Regression achieved nearly 80% accuracy on this dataset.
 
-🎓 Learning Outcomes
+## 🎓 Learning Outcomes
 
 This project helped develop practical skills in:
 
@@ -172,7 +173,7 @@ Classification Algorithms
 Model Evaluation
 Machine Learning Workflow
 
-⭐ Acknowledgements
+## ⭐ Acknowledgements
 
 This project was developed as part of Machine Learning practice and demonstrates the application of Logistic Regression on the Titanic Survival Prediction dataset.
 
