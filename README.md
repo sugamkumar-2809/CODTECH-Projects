@@ -132,9 +132,8 @@ Dataset split:
 - Testing Data: 20%
 
 Random State:
-
-```python
 random_state = 2
+
 
 📂 Project Structure
 
@@ -178,3 +177,4 @@ Machine Learning Workflow
 This project was developed as part of Machine Learning practice and demonstrates the application of Logistic Regression on the Titanic Survival Prediction dataset.
 
 If you found this project useful, please ⭐ star the repository.
+```python
