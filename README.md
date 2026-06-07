@@ -136,7 +136,6 @@ random_state = 2
 
 
 📂 Project Structure
-
 Titanic_Survival_Prediction/
 │
 ├── Project1_Titanic_Survival_Prediction.ipynb
@@ -148,6 +147,7 @@ Titanic_Survival_Prediction/
     ├── gender_plot.png
     └── pclass_plot.png
 
+    
 📊 Key Insights
 
 ✔ Female passengers had significantly higher survival rates.
