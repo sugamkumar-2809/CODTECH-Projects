@@ -164,7 +164,7 @@ Titanic_Survival_Prediction/
 ## 🎓 Learning Outcomes
 
 This project helped develop practical skills in:
-
+```
 Data Preprocessing
 Handling Missing Values
 Data Visualization
@@ -172,7 +172,7 @@ Feature Engineering
 Classification Algorithms
 Model Evaluation
 Machine Learning Workflow
-
+```
 ## ⭐ Acknowledgements
 
 This project was developed as part of Machine Learning practice and demonstrates the application of Logistic Regression on the Titanic Survival Prediction dataset.
